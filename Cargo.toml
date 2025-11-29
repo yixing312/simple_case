@@ -1,0 +1,9 @@
+[package]
+name = "simple_case"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libjaka = "0.1.10"
+robot_behavior = "0.5.1"
+rsbullet = "0.3.2"
